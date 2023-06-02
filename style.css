@@ -1,0 +1,11 @@
+.container{
+background-color: rgb(253, 240, 223);
+font-size: medium;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container-fluid{
+    background-color: rgb(253, 240, 223);
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
